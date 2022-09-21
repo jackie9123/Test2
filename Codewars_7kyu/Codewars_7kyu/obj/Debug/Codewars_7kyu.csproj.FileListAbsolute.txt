@@ -1,0 +1,8 @@
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\bin\Debug\Codewars_7kyu.exe.config
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\bin\Debug\Codewars_7kyu.exe
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\bin\Debug\Codewars_7kyu.pdb
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\obj\Debug\Codewars_7kyu.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\obj\Debug\Codewars_7kyu.csproj.SuggestedBindingRedirects.cache
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\obj\Debug\Codewars_7kyu.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\obj\Debug\Codewars_7kyu.exe
+C:\Users\111\source\repos\Codewars_7kyu\Codewars_7kyu\obj\Debug\Codewars_7kyu.pdb
